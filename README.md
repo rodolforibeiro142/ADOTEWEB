@@ -12,8 +12,7 @@ pois devido a esse fato seria necessário gastar uma quantia em dinheiro para o 
 	Neste trabalho, será desenvolvido um sistema web para dar suporte de maneira ágil e prática a esse tipo de serviço, facilitando assim o resgate e a adoção desses animais.
 
 # Apresentação
-Nosso pitch pode ser encontrado no seguinte link:
-https://drive.google.com/file/d/0B8_ERpOaRjJcLWdjdFNDSTJCNnUzM1h6WWE4MWh6dEhscktz/view?ts=57f07a10
+[Nosso pitch pode ser encontrado aqui](https://drive.google.com/file/d/0B8_ERpOaRjJcLWdjdFNDSTJCNnUzM1h6WWE4MWh6dEhscktz/view?ts=57f07a10)
 
 # A equipe 
  Esse trabalho está sendo projetado e desenvolvido por Rodolfo Ribeiro e Victor Gonçalves Valfré
